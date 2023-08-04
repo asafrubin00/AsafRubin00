@@ -24,7 +24,7 @@ My name is Asaf. I am a data professional with a passion for learning, and apply
 <ul>
   <li><a href="https://github.com/AsafRubin00/LSE-Data-Analytics-Career-Accelerator">LSE Data Analytics Career Accelerator</li>
     <li><a href="https://github.com/AsafRubin00/Advanced-Analytics-for-Organisational-Impact">Advanced Analytics for Organisational Impact</a></li>
-  <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index)https://github.com/AsafRubin00/CEO-Turnover-Index">CEO Turnover Index</a>
+  <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index">CEO Turnover Index</a>
 </li>
 </ul>
 <br>
