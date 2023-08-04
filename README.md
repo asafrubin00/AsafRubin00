@@ -20,15 +20,11 @@ My name is Asaf. I am a data professional with a passion for learning, and apply
 <li><b>Version Control Systems</b>: GitHub</li>
 </ul>
 
-<h2>Connect with me</h2>
-<ul>
-  <li><a href="https://www.linkedin.com/in/asaf-rubin-21291466/)https://www.linkedin.com/in/asaf-rubin-21291466/">LinkedIn</a></li>
-  <li><a href="https://twitter.com/AsafRubin)https://twitter.com/AsafRubin">Twitter</a></li>
-</ul>
-
 <h2>Portfolio Highlights</h2>
 <ul>
-  <li>LSE Data Analytics Career Accelerator</li>
-  <li>CEO Turnover Index</li>
+  <li><a href="https://github.com/AsafRubin00/LSE-Data-Analytics-Career-Accelerator">LSE Data Analytics Career Accelerator</li>
+    <li><a href="https://github.com/AsafRubin00/Advanced-Analytics-for-Organisational-Impact">Advanced Analytics for Organisational Impact</a></li>
+  <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index)https://github.com/AsafRubin00/CEO-Turnover-Index">CEO Turnover Index</a>
+</li>
 </ul>
 <br>
