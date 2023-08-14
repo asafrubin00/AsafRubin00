@@ -21,10 +21,16 @@ My name is Asaf. I am a data professional with a passion for learning, and apply
 </ul>
 
 <h2>Portfolio Highlights</h2>
-<ul>
-  <li><a href="https://github.com/AsafRubin00/LSE-Data-Analytics-Career-Accelerator">LSE Data Analytics Career Accelerator</li>
-    <li><a href="https://github.com/AsafRubin00/Advanced-Analytics-for-Organisational-Impact">Advanced Analytics for Organisational Impact</a></li>
-  <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index">CEO Turnover Index</a>
-</li>
-</ul>
-<br>
+  <h4>LSE Data Analytics Career Accelerator</h4>
+  <ul>
+  <li><a href="https://github.com/AsafRubin00/LSE-Data-Analytics-Career-Accelerator">About the LSE Data Analytics Career Accelerator</li>
+      <li><a href="https://github.com/AsafRubin00/LSE-Data-Analytics-for-Business">Course 1: Data Analytics for Business</a></li>
+      <li><a href="https://github.com/AsafRubin00/LSE-Data-Analytics-Using-Python">Course 2: Data Analytics Using Python</a></li>
+      <li><a href="https://github.com/AsafRubin00/Advanced-Analytics-for-Organisational-Impact">Course 3: Advanced Analytics for Organisational Impact</a></li>
+      <li><a href="https://github.com/AsafRubin00/Employer-Project">Employer Project: Delivering Real Business Insights</a></li>
+    </ul>
+    <h4>My other data analytics projects</h4>
+    <ul>
+      <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index">CEO Turnover Index</a></li>
+    </ul>
+      <br>
