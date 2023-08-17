@@ -1,4 +1,4 @@
-<h1>Asaf Rubin | Data Analyst</h1>
+<h1>Asaf Rubin, PhD | Data Analyst</h1>
 
 ![Blue Modern Geometric LinkedIn Banner (1)](https://github.com/AsafRubin00/AsafRubin00/assets/115939423/c2d0f214-9985-4dcb-821b-c10b43f4c869)
 
