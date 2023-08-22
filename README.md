@@ -17,7 +17,7 @@ My name is Asaf. I am a data professional with a passion for learning, and apply
 <li><b>Database tools</b>: pgAdmin</li>
 <li><b>Visualization</b>: Tableau</li>
 <li><b>Statistical Software</b>: SPSS</li>
-<li><b>Version Control Systems</b>: GitHub</li>
+<li><b>Version Control Systems</b>: GitHub, GitBash</li>
 </ul>
 <br>
 <sup>1</sup><i>Including Pandas, NumPy, TensorFlow, SciPy, SciKit-Learn, Matplotlib, Seaborn, BeautifulSoup</i>
