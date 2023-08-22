@@ -12,13 +12,15 @@ My name is Asaf. I am a data professional with a passion for learning, and apply
 
 <h2>Tools</h2>
 <ul></ul>
-<li><b>Languages</b>: Python, R, SQL</li>
+<li><b>Languages</b>: Python<sup>1</sup>, R, SQL</li>
 <li><b>Database</b>: PostgreSQL, Microsoft SQL Server</li>
 <li><b>Database tools</b>: pgAdmin</li>
 <li><b>Visualization</b>: Tableau</li>
 <li><b>Statistical Software</b>: SPSS</li>
 <li><b>Version Control Systems</b>: GitHub</li>
 </ul>
+<br>
+<sup>1</sup><i>Including Pandas, NumPy, TensorFlow, SciPy, SciKit-Learn, Matplotlib, Seaborn, BeautifulSoup</i>
 
 <h2>Portfolio Highlights</h2>
   <h4>LSE Data Analytics Career Accelerator</h4>
