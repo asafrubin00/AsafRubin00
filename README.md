@@ -22,7 +22,7 @@ Want to know more? Have a chat with my CV ChatBot <a href="16.171.208.1:5000/">h
 <li><b>Version Control Systems</b>: GitHub, GitBash</li>
 </ul>
 <br>
-<sup>1</sup><i>Including Pandas, NumPy, TensorFlow, SciPy, SciKit-Learn, Matplotlib, Seaborn, BeautifulSoup</i>
+<sup>1</sup><i>Including Pandas, NumPy, PyTorch, TensorFlow, SciPy, SciKit-Learn, Matplotlib, Seaborn, BeautifulSoup</i>
 
 <h2>Portfolio Highlights</h2>
   <h4>LSE Data Analytics Career Accelerator</h4>
