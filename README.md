@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 My name is Asaf. I am a data professional with a passion for learning, and applying cutting-edge tools and techniques to transform raw information into valuable and actionable business insights. Proficient in Python, SQL, R, Tablueau and SPSS to handle complex datasets, distill them into meaningful strategic outputs and communicate them to a broad range of stakeholders. 
-<br>
+<br><br>
 Want to know more? Have a chat with my CV ChatBot <a href="https://bit.ly/3ErQwr6">here</a>
 
 <h2>About Me</h2>
