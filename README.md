@@ -6,7 +6,7 @@
 
 My name is Asaf. I am a data professional with a passion for learning, and applying cutting-edge tools and techniques to transform raw information into valuable and actionable business insights. Proficient in Python, SQL, R, Tablueau and SPSS to handle complex datasets, distill them into meaningful strategic outputs and communicate them to a broad range of stakeholders. 
 <br><br>
-Want to know more? Have a chat with my <a href="16.171.208.1:5000/">CV ChatBot</a>
+Want to know more? Have a chat with my <a href="http://16.171.208.1:5000/">CV ChatBot</a>
 
 <h2>About Me</h2>
 <p>My academic background combined with my commercial experience has given me a comprehensive perspective on how data can be leveraged as a valuable strategic resource. My PhD (Management Science) thesis was an investigation of the relationships between knowledge, innovation and productivity. I have spent the last five years working in the Executive Search industry, first as a Knowledge Consultant, where I applied the academic theory I had learned in a commercial setting and collaborated with senior stakeholders to win business by providing actionable insights based on market data. In my current role as a Data Insights Consultant, I transform internal analytics into insights to identify new strategic business opportunities and facilitate data-driven decision-making.</p>
