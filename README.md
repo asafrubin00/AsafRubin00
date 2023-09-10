@@ -36,5 +36,6 @@ Want to know more? Have a chat with my <a href="http://16.171.208.1:5000/">CV Ch
     <h4>My other data analytics projects</h4>
     <ul>
       <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index">CEO Turnover Index</a></li>
+      <li><a href="http://16.171.208.1:5000/">CV ChatBot</a></li>
     </ul>
       <br>
