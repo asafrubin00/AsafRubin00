@@ -1,10 +1,10 @@
-<h1>Asaf Rubin, PhD | Data & BI Consultant</h1>
+<h1>AJ Rubin, PhD | Data & BI Consultant</h1>
 
 ![Blue Modern Geometric LinkedIn Banner (1)](https://github.com/AsafRubin00/AsafRubin00/assets/115939423/c2d0f214-9985-4dcb-821b-c10b43f4c869)
 
 ### Hi there 👋
 
-My name is Asaf. I am a data professional with a passion for learning, and applying cutting-edge tools and techniques to transform raw information into valuable and actionable business insights. Proficient in Python, SQL, R, Tablueau and SPSS to handle complex datasets, distill them into meaningful strategic outputs and communicate them to a broad range of stakeholders. 
+My name is AJ. I am a data professional with a passion for learning, and applying cutting-edge tools and techniques to transform raw information into valuable and actionable business insights. Proficient in Python, SQL, R, Tablueau and SPSS to handle complex datasets, distill them into meaningful strategic outputs and communicate them to a broad range of stakeholders. 
 <br><br>
 Want to know more? Have a chat with my <a href="http://16.171.208.1:5000/">CV ChatBot</a>
 
