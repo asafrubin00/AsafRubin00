@@ -1,4 +1,4 @@
-<h1>AJ Rubin, PhD | Data & BI Consultant</h1>
+<h1>Asaf Rubin, PhD, MBA | Data & BI Consultant</h1>
 
 ![Blue Modern Geometric LinkedIn Banner](https://github.com/user-attachments/assets/cd6c3516-1285-413d-a717-4f6d0c1aff99)
 
