@@ -1,7 +1,6 @@
 <h1>Asaf Rubin, PhD, MBA | Data & BI Consultant</h1>
 
-![Blue Modern Geometric LinkedIn Banner](https://github.com/user-attachments/assets/cd6c3516-1285-413d-a717-4f6d0c1aff99)
-<img width="2000" height="600" alt="Blue Modern Geometric LinkedIn Banner" src="https://github.com/user-attachments/assets/a626f3c9-d32e-419a-ac51-ccd34e8b935f" />
+<img width="2000" height="600" alt="Blue Modern Geometric LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/22a08446-6472-4717-ba1f-01e9424bf0ca" />
 
 
 ### Hi there 👋
