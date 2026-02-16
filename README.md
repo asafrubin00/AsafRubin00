@@ -7,11 +7,12 @@
 
 My name is Asaf. I am a data professional with a passion for learning, and applying cutting-edge tools and techniques to transform raw information into valuable and actionable business insights. Proficient in Python, SQL, R, Tablueau and SPSS to handle complex datasets, distill them into meaningful strategic outputs and communicate them to a broad range of stakeholders. 
 <br><br>
-Want to know more? Have a chat with my <a href="http://16.171.208.1:5000/">CV ChatBot</a>
+Want to know more? Have a chat with my [CV Chatboz](https://github.com/asafrubin00/asaf-cv-chatbot)
 
 <h2>About Me</h2>
-<p>My academic background combined with my commercial experience has given me a comprehensive perspective on how data can be leveraged as a valuable strategic resource. My PhD (Management Science) thesis was an investigation of the relationships between knowledge, innovation and productivity. I have spent the last five years working in the Executive Search industry, first as a Knowledge Consultant, where I applied the academic theory I had learned in a commercial setting and collaborated with senior stakeholders to win business by providing actionable insights based on market data. In my current role as a Data Insights Consultant, I transform internal analytics into insights to identify new strategic business opportunities and facilitate data-driven decision-making.</p>
+<p>My academic background combined with my commercial experience has given me a comprehensive perspective on how data can be leveraged as a valuable strategic resource. My PhD (Management Science) thesis was an investigation of the relationships between knowledge, innovation and productivity. I then spent last five years working in the Executive Search industry, first as a Knowledge Consultant, where I applied the academic theory I had learned in a commercial setting and collaborated with senior stakeholders to win business by providing actionable insights based on market data. Later, as a Data Insights Consultant, I transformed internal analytics into insights to identify new strategic business opportunities and facilitate data-driven decision-making.</p>
 <p>More recently, I undertook a <b>Data Analytics Career Accelerator</b> course through <i>The London School of Economics and Political Science</i> (LSE), with a focus on data anlytics for business and advanced analytics for organiational impact.</p>
+<p>In 2025 I graduated from the MBA program at INSEAD in France.</p>
 
 <h2>Tools</h2>
 <ul></ul>
@@ -37,6 +38,7 @@ Want to know more? Have a chat with my <a href="http://16.171.208.1:5000/">CV Ch
     <h4>My other data analytics projects</h4>
     <ul>
       <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index">CEO Turnover Index</a></li>
-      <li><a href="https://github.com/AsafRubin00/CV-ChatBot">CV ChatBot</a></li>
+      <li><a href="https://github.com/AsafRubin00/CV-ChatBot">CV ChatBot (Legacy Python Version)</a></li>
+      <li><a href="https://github.com/asafrubin00/asaf-cv-chatbot">CV Chatbot (New Version 2026)</a>a></li>
     </ul>
       <br>
