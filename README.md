@@ -39,6 +39,6 @@ Want to know more? Have a chat with my [CV Chatbot](https://github.com/asafrubin
     <ul>
       <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index">CEO Turnover Index</a></li>
       <li><a href="https://github.com/AsafRubin00/CV-ChatBot">CV ChatBot (Legacy Python Version)</a></li>
-      <li><a href="https://github.com/asafrubin00/asaf-cv-chatbot">CV Chatbot (New Version 2026)</a>a></li>
+      <li><a href="https://github.com/asafrubin00/asaf-cv-chatbot">CV Chatbot (New Version 2026)</a></li>
     </ul>
       <br>
