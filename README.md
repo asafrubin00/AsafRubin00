@@ -11,7 +11,7 @@ Want to know more? Have a chat with my [CV Chatbot](https://github.com/asafrubin
 
 <h2>About Me</h2>
 <p>My academic background combined with my commercial experience has given me a comprehensive perspective on how data can be leveraged as a valuable strategic resource. My PhD (Management Science) thesis was an investigation of the relationships between knowledge, innovation and productivity. I then spent last five years working in the Executive Search industry, first as a Knowledge Consultant, where I applied the academic theory I had learned in a commercial setting and collaborated with senior stakeholders to win business by providing actionable insights based on market data. Later, as a Data Insights Consultant, I transformed internal analytics into insights to identify new strategic business opportunities and facilitate data-driven decision-making.</p>
-<p>More recently, I undertook a <b>Data Analytics Career Accelerator</b> course through <i>The London School of Economics and Political Science</i> (LSE), with a focus on data anlytics for business and advanced analytics for organiational impact.</p>
+<p>In 2023 I undertook a <b>Data Analytics Career Accelerator</b> course through <i>The London School of Economics and Political Science</i> (LSE), with a focus on data anlytics for business and advanced analytics for organiational impact.</p>
 <p>In 2025 I graduated from the MBA program at INSEAD in France.</p>
 
 <h2>Tools</h2>
