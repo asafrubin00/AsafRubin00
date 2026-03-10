@@ -37,9 +37,12 @@ Want to know more? Have a chat with my [CV Chatbot](https://github.com/asafrubin
     </ul>
     <h4>My other data analytics projects</h4>
     <ul>
-      <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index">CEO Turnover Index</a></li>
-      <li><a href="https://github.com/AsafRubin00/CV-ChatBot">CV ChatBot (Legacy Python Version)</a></li>
-      <li><a href="https://github.com/asafrubin00/asaf-cv-chatbot">CV Chatbot (New Version 2026)</a></li>
-      <li><a href="https://github.com/asafrubin00/crowdcallr">CrowdCallr</li>
+      <li><a href="https://github.com/asafrubin00/asaf-cv-chatbot"><b>[2026] CV Chatbot (Render Version)</b></a>: an updated CV chatbot trained on my CV and personal history</li>
+      <li><a href="https://github.com/asafrubin00/crowdcallr"><b>[2026] CrowdCallr</b></a>: a modernized pilot version of an academic research crowdsourcing and prediction market platform, based on my PhD research</li>
+    </ul>
+            <h4>Legacy projects</h4>
+    <ul>
+      <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index"><b>[2023] CEO Turnover Index (Legacy Version)</b></a>: <i>new version in development</i></li>
+      <li><a href="https://github.com/AsafRubin00/CV-ChatBot"><b>[2023] CV ChatBot (Legacy Version)</a></b>: built with Python, hosted on AWS. No longer operational.</li>
     </ul>
       <br>
