@@ -1,8 +1,5 @@
 <h1>Asaf Rubin, PhD, MBA | Data & BI Consultant</h1>
 
-<img width="960" height="240" alt="image" src="https://github.com/user-attachments/assets/b26efe20-b046-4888-a6bb-9ff3cd1534be" />
-
-
 ### Hi there 👋
 
 My name is Asaf. I am a data professional with a passion for learning, and applying cutting-edge tools and techniques to transform raw information into valuable and actionable business insights. Proficient in Python, SQL, R, Tablueau and SPSS to handle complex datasets, distill them into meaningful strategic outputs and communicate them to a broad range of stakeholders. 
