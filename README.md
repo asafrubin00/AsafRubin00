@@ -34,12 +34,15 @@ Want to know more? Have a chat with my [CV Chatbot](https://github.com/asafrubin
     </ul>
     <h4>My other data analytics projects</h4>
     <ul>
-      <li><a href="https://github.com/asafrubin00/asaf-cv-chatbot"><b>[2026] CV Chatbot (Render Version)</b></a>: an updated CV chatbot trained on my CV and personal history</li>
-      <li><a href="https://github.com/asafrubin00/crowdcallr"><b>[2026] CrowdCallr</b></a>: a modernized pilot version of an academic research crowdsourcing and prediction market platform, based on my PhD research</li>
+      <li><a href="https://github.com/asafrubin00/boardcraft"><b>BoardCraft</b></a>: a gamified Corporate Governance educational and training tool</li>
+            <li><a href="https://github.com/asafrubin00/ceo-turnover-index"><b>CEO Turnover Index (Redux)</b></a>: an updated version of the CEO Turnover Index, built on data sourced from <a href="https://www.russellreynolds.com/en/insights/reports-surveys/global-ceo-turnover-index"</b>Russell Reynolds Associates</a></li>
+            <li><a href="https://github.com/asafrubin00/crowdcallr"><b>CrowdCallr</b></a>: an academic research crowdsourcing and prediction market platform, based on my PhD research</li>
+      <li><a href="https://github.com/asafrubin00/asaf-cv-chatbot"><b>CV Chatbot (Render Version)</b></a>: an updated CV chatbot trained on my CV and personal history</li>
+      <li><a href="https://github.com/asafrubin00/governance-dissent-dashboard"><b>Governance Dissent Tracker</b></a>: tracking shareholder dissent in public markets</li>
     </ul>
             <h4>Legacy projects</h4>
     <ul>
-      <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index"><b>[2023] CEO Turnover Index (Legacy Version)</b></a>: <i>new version in development</i></li>
+      <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index"><b>[2023] CEO Turnover Index (Legacy Version)</b></a></li>
       <li><a href="https://github.com/AsafRubin00/CV-ChatBot"><b>[2023] CV ChatBot (Legacy Version)</a></b>: built with Python, hosted on AWS. No longer operational.</li>
     </ul>
       <br>
