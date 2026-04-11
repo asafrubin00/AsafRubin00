@@ -1,48 +1,63 @@
-<h1>Asaf Rubin, PhD, MBA | Data & BI Consultant</h1>
+# Asaf Rubin · PhD · MBA
 
-### Hi there 👋
+**Corporate governance. Investor stewardship. Built with code.**
 
-My name is Asaf. I am a data professional with a passion for learning, and applying cutting-edge tools and techniques to transform raw information into valuable and actionable business insights. Proficient in Python, SQL, R, Tablueau and SPSS to handle complex datasets, distill them into meaningful strategic outputs and communicate them to a broad range of stakeholders. 
-<br><br>
-Want to know more? Have a chat with my [CV Chatbot](https://github.com/asafrubin00/asaf-cv-chatbot)
+I'm a researcher, strategist, and builder with a background spanning academic management science, executive search, and data analytics. I completed my PhD at Wits University in 2018, completed my MBA at INSEAD in 2025, and I'm now building at the intersection of corporate governance and technology — using code to create tools, dashboards, and experiences that make governance tangible and interesting.
 
-<h2>About Me</h2>
-<p>My academic background combined with my commercial experience has given me a comprehensive perspective on how data can be leveraged as a valuable strategic resource. My PhD (Management Science) thesis was an investigation of the relationships between knowledge, innovation and productivity. I then spent last five years working in the Executive Search industry, first as a Knowledge Consultant, where I applied the academic theory I had learned in a commercial setting and collaborated with senior stakeholders to win business by providing actionable insights based on market data. Later, as a Data Insights Consultant, I transformed internal analytics into insights to identify new strategic business opportunities and facilitate data-driven decision-making.</p>
-<p>In 2023 I undertook a <b>Data Analytics Career Accelerator</b> course through <i>The London School of Economics and Political Science</i> (LSE), with a focus on data anlytics for business and advanced analytics for organiational impact.</p>
-<p>In 2025 I graduated from the MBA program at INSEAD in France.</p>
+This GitHub is where that work lives.
 
-<h2>Tools</h2>
-<ul></ul>
-<li><b>Languages</b>: Python<sup>1</sup>, R, SQL</li>
-<li><b>Database</b>: PostgreSQL, Microsoft SQL Server</li>
-<li><b>Database tools</b>: pgAdmin</li>
-<li><b>Visualization</b>: Tableau</li>
-<li><b>Statistical Software</b>: SPSS</li>
-<li><b>Version Control Systems</b>: GitHub, GitBash</li>
-</ul>
-<br>
-<sup>1</sup><i>Including Pandas, NumPy, PyTorch, TensorFlow, SciPy, SciKit-Learn, Matplotlib, Seaborn, BeautifulSoup</i>
+---
 
-<h2>Portfolio Highlights</h2>
-  <h4>LSE Data Analytics Career Accelerator</h4>
-  <ul>
-  <li><a href="https://github.com/AsafRubin00/LSE-Data-Analytics-Career-Accelerator">About the LSE Data Analytics Career Accelerator</li>
-      <li><a href="https://github.com/AsafRubin00/LSE-Data-Analytics-for-Business">Course 1: Data Analytics for Business</a></li>
-      <li><a href="https://github.com/AsafRubin00/LSE-Data-Analytics-Using-Python">Course 2: Data Analytics Using Python</a></li>
-      <li><a href="https://github.com/AsafRubin00/Advanced-Analytics-for-Organisational-Impact">Course 3: Advanced Analytics for Organisational Impact</a></li>
-      <li><a href="https://github.com/AsafRubin00/Employer-Project">Employer Project: Delivering Real Business Insights</a></li>
-    </ul>
-    <h4>My other data analytics projects</h4>
-    <ul>
-      <li><a href="https://github.com/asafrubin00/boardcraft"><b>BoardCraft</b></a>: a gamified Corporate Governance educational and training tool</li>
-            <li><a href="https://github.com/asafrubin00/ceo-turnover-index"><b>CEO Turnover Index (Redux)</b></a>: an updated version of the CEO Turnover Index, built on data sourced from <a href="https://www.russellreynolds.com/en/insights/reports-surveys/global-ceo-turnover-index"</b>Russell Reynolds Associates</a></li>
-            <li><a href="https://github.com/asafrubin00/crowdcallr"><b>CrowdCallr</b></a>: an academic research crowdsourcing and prediction market platform, based on my PhD research</li>
-      <li><a href="https://github.com/asafrubin00/asaf-cv-chatbot"><b>CV Chatbot (Render Version)</b></a>: an updated CV chatbot trained on my CV and personal history</li>
-      <li><a href="https://github.com/asafrubin00/governance-dissent-dashboard"><b>Proxy Wars</b></a>: tracking shareholder dissent in public markets</li>
-    </ul>
-            <h4>Legacy projects</h4>
-    <ul>
-      <li><a href="https://github.com/AsafRubin00/CEO-Turnover-Index"><b>[2023] CEO Turnover Index (Legacy Version)</b></a></li>
-      <li><a href="https://github.com/AsafRubin00/CV-ChatBot"><b>[2023] CV ChatBot (Legacy Version)</a></b>: built with Python, hosted on AWS. No longer operational.</li>
-    </ul>
-      <br>
+## 🏛️ Governance & Finance Projects
+
+These projects reflect my core professional focus: board dynamics, shareholder stewardship, executive accountability, and the mechanics of how public companies are governed.
+
+| Project | Description | Live |
+|---|---|---|
+| [**BoardCraft**](https://github.com/asafrubin00/boardcraft) | A browser-based corporate governance strategy game. Build a board, survive AGM season, navigate crises across UK and US regulatory frameworks. | [Play →](https://boardcraft-eight.vercel.app) |
+| [**CEO Turnover Index**](https://github.com/asafrubin00/ceo-turnover-index) | Interactive analytics dashboard tracking global CEO turnover trends across indices, industries, and appointment types. Built on Russell Reynolds data. | [View →](https://ceo-turnover-index.vercel.app) |
+| [**Proxy Wars**](https://github.com/asafrubin00/governance-dissent-dashboard) | Shareholder dissent tracker for FTSE 100 AGM votes. Surfaces significant votes against management and emerging governance trends. | [View →](https://proxy-wars-dissent-tracker.vercel.app/dashboard) |
+
+---
+
+## 📊 Data Analytics — LSE Career Accelerator
+
+In 2023 I completed the **LSE Data Analytics Career Accelerator** — a rigorous programme covering the full analytics stack from business intelligence through to advanced predictive modelling. The repositories below document that work in Python and R.
+
+| Repository | Focus |
+|---|---|
+| [LSE Data Analytics Career Accelerator](https://github.com/AsafRubin00/LSE-Data-Analytics-Career-Accelerator) | Programme overview and consolidated project work |
+| [Course 1: Data Analytics for Business](https://github.com/AsafRubin00/LSE-Data-Analytics-for-Business) | Business intelligence, SQL, exploratory analysis |
+| [Course 2: Data Analytics Using Python](https://github.com/AsafRubin00/LSE-Data-Analytics-Using-Python) | Python, Pandas, NumPy, visualisation |
+| [Course 3: Advanced Analytics for Organisational Impact](https://github.com/AsafRubin00/Advanced-Analytics-for-Organisational-Impact) | Machine learning, predictive modelling, Scikit-Learn |
+| [Employer Project: Delivering Real Business Insights](https://github.com/AsafRubin00/Employer-Project) | End-to-end client project — data to recommendations |
+
+---
+
+## 🔬 Other Projects
+
+| Project | Description | Live |
+|---|---|---|
+| [**CrowdCallr**](https://github.com/asafrubin00/crowdcallr) | Academic research crowdsourcing platform with prediction market mechanics. Inspired by my PhD thesis on knowledge and innovation in digital collectives. | [View →](https://crowdcallr.vercel.app) |
+| [**CV Chatbot**](https://github.com/asafrubin00/asaf-cv-chatbot) | Ask me anything. An AI chatbot trained on my CV and professional history — the most efficient way to get to know me. | [Chat →](https://asaf-cv-chatbot.onrender.com) |
+
+---
+
+## Background
+
+- 🎓 **PhD, Management Science** — research focus on knowledge, innovation, and productivity in digital collectives
+- 🎓 **MBA, INSEAD** — Class of 2025
+- 📜 **LSE Data Analytics Career Accelerator** — 2023
+- 💼 Former Knowledge Consultant and Data Insights Consultant in the Executive Search industry
+
+**Languages & tools:** Python · R · SQL · JavaScript · TypeScript · Next.js · Tableau · PostgreSQL
+
+---
+
+## Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/asaf-rubin-phd-mba-21291466/)
+- 🌐 [Personal site](https://sites.google.com/view/asafrubin/home)
+- 🐦 [X / Twitter](https://x.com/AsafRubin)
+
+*Want to know more? Chat with my [CV Chatbot](https://asaf-cv-chatbot.onrender.com).*
