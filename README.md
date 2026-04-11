@@ -2,7 +2,7 @@
 
 **Corporate governance. Investor stewardship. Built with code.**
 
-I'm a researcher, strategist, and builder with a background spanning academic management science, executive search, and data analytics. I earned my PhD at Wits University in 2018, completed my MBA at INSEAD in 2025, and I'm now building at the intersection of corporate governance and technology — using code to create tools, dashboards, and experiences that make governance tangible and interesting.
+I'm a researcher, strategist, and builder with a background spanning academic management science, executive search, and data analytics. I earned my PhD at Wits University in 2018, completed my MBA at INSEAD in 2025, and I'm now building at the intersection of corporate governance and technology, using code to create tools, dashboards, and experiences that make governance tangible and interesting.
 
 This GitHub is where that work lives.
 
@@ -14,13 +14,13 @@ This GitHub is where that work lives.
 |---|---|---|
 | [**BoardCraft**](https://github.com/asafrubin00/boardcraft) | Strategy game: build a board, survive AGM season, navigate UK & US governance frameworks. | [Play →](https://boardcraft-eight.vercel.app) |
 | [**CEO Turnover Index**](https://github.com/asafrubin00/ceo-turnover-index) | Analytics dashboard tracking global CEO turnover by index, industry, and appointment type. | [View →](https://ceo-turnover-index.vercel.app) |
-| [**Proxy Wars**](https://github.com/asafrubin00/governance-dissent-dashboard) | Shareholder dissent tracker — FTSE 100 AGM votes against management, live. | [View →](https://proxy-wars-dissent-tracker.vercel.app/dashboard) |
+| [**Proxy Wars**](https://github.com/asafrubin00/governance-dissent-dashboard) | Shareholder dissent tracker: FTSE 100 AGM votes against management, live. | [View →](https://proxy-wars-dissent-tracker.vercel.app/dashboard) |
 
 ---
 
-## 📊 Data Analytics — LSE Career Accelerator
+## 📊 Data Analytics: LSE Career Accelerator
 
-In 2023 I completed the **LSE Data Analytics Career Accelerator** — a rigorous programme covering the full analytics stack from business intelligence through to advanced predictive modelling. The repositories below document that work in Python and R.
+In 2023 I completed the **LSE Data Analytics Career Accelerator**: a rigorous programme covering the full analytics stack from business intelligence through to advanced predictive modelling. The repositories below document that work in Python and R.
 
 | Repository | Focus |
 |---|---|
@@ -36,16 +36,16 @@ In 2023 I completed the **LSE Data Analytics Career Accelerator** — a rigorous
 
 | Project | Description | Live |
 |---|---|---|
-| [**CrowdCallr**](https://github.com/asafrubin00/crowdcallr) | Research crowdsourcing platform with prediction market mechanics — inspired by my PhD. | [View →](https://crowdcallr.vercel.app) |
-| [**CV Chatbot**](https://github.com/asafrubin00/asaf-cv-chatbot) | AI chatbot trained on my CV — the most efficient way to get to know me. | [Chat →](https://asaf-cv-chatbot.onrender.com) |
+| [**CrowdCallr**](https://github.com/asafrubin00/crowdcallr) | Research crowdsourcing platform with prediction market mechanics, inspired by my PhD. | [View →](https://crowdcallr.vercel.app) |
+| [**CV Chatbot**](https://github.com/asafrubin00/asaf-cv-chatbot) | AI chatbot trained on my CV. The most efficient way to get to know me. | [Chat →](https://asaf-cv-chatbot.onrender.com) |
 
 ---
 
 ## Background
 
-- 🎓 **PhD, Management Science** — Wits University, 2018. Research focus: knowledge, innovation, and productivity in digital collectives
-- 🎓 **MBA, INSEAD** — Class of 2025
-- 📜 **LSE Data Analytics Career Accelerator** — 2023
+- 🎓 **PhD, Management Science**: Wits University, 2018. Research focus: knowledge, innovation, and productivity in digital collectives
+- 🎓 **MBA, INSEAD**: Class of 2025
+- 📜 **LSE Data Analytics Career Accelerator**: 2023
 - 💼 Former Knowledge Consultant and Data Insights Consultant in the Executive Search industry
 
 ---
@@ -67,7 +67,7 @@ In 2023 I completed the **LSE Data Analytics Career Accelerator** — a rigorous
 ## Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/asaf-rubin-phd-mba-21291466/)
-- 🌐 [Personal site](https://sites.google.com/view/asafrubin/home)
 - 🐦 [X / Twitter](https://x.com/AsafRubin)
+- - 🌐 [Research Portfolio](https://sites.google.com/view/asafrubin/home)
 
 *Want to know more? Chat with my [CV Chatbot](https://asaf-cv-chatbot.onrender.com).*
