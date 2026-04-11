@@ -2,7 +2,7 @@
 
 **Corporate governance. Investor stewardship. Built with code.**
 
-I'm a researcher, strategist, and builder with a background spanning academic management science, executive search, and data analytics. I earned my PhD at Wits University in 2018, completed my MBA at INSEAD in 2025, and I'm now building at the intersection of corporate governance and technology — using code to create tools, dashboards, and experiences that make governance tangible and interesting.
+I'm a researcher, strategist, and builder with a background spanning academic management science, executive search, and data analytics. I earned my PhD at Wits University in 2018, completed my MBA at INSEAD in 2025, and I'm now building at the intersection of corporate governance and technology, using code to create tools, dashboards, and experiences that make governance tangible and interesting.
 
 This GitHub is where that work lives.
 
@@ -14,13 +14,13 @@ This GitHub is where that work lives.
 |---|---|---|
 | [**BoardCraft**](https://github.com/asafrubin00/boardcraft) | Strategy game: build a board, survive AGM season, navigate UK & US governance frameworks. | [Play →](https://boardcraft-eight.vercel.app) |
 | [**CEO Turnover Index**](https://github.com/asafrubin00/ceo-turnover-index) | Analytics dashboard tracking global CEO turnover by index, industry, and appointment type. | [View →](https://ceo-turnover-index.vercel.app) |
-| [**Proxy Wars**](https://github.com/asafrubin00/governance-dissent-dashboard) | Shareholder dissent tracker — FTSE 100 AGM votes against management, live. | [View →](https://proxy-wars-dissent-tracker.vercel.app/dashboard) |
+| [**Proxy Wars**](https://github.com/asafrubin00/governance-dissent-dashboard) | Shareholder dissent tracker - FTSE 100 AGM votes against management, live. | [View →](https://proxy-wars-dissent-tracker.vercel.app/dashboard) |
 
 ---
 
 ## 📊 Data Analytics — LSE Career Accelerator
 
-In 2023 I completed the **LSE Data Analytics Career Accelerator** — a rigorous programme covering the full analytics stack from business intelligence through to advanced predictive modelling. The repositories below document that work in Python and R.
+In 2023 I completed the **LSE Data Analytics Career Accelerator**; a rigorous programme covering the full analytics stack from business intelligence through to advanced predictive modelling. The repositories below document that work in Python and R.
 
 | Repository | Focus |
 |---|---|
@@ -28,7 +28,7 @@ In 2023 I completed the **LSE Data Analytics Career Accelerator** — a rigorous
 | [Course 1: Analytics for Business](https://github.com/AsafRubin00/LSE-Data-Analytics-for-Business) | Business intelligence, SQL, exploratory analysis |
 | [Course 2: Analytics Using Python](https://github.com/AsafRubin00/LSE-Data-Analytics-Using-Python) | Python, Pandas, NumPy, visualisation |
 | [Course 3: Advanced Analytics](https://github.com/AsafRubin00/Advanced-Analytics-for-Organisational-Impact) | ML, predictive modelling, Scikit-Learn |
-| [Employer Project](https://github.com/AsafRubin00/Employer-Project) | End-to-end client project — data to recommendations |
+| [Employer Project](https://github.com/AsafRubin00/Employer-Project) | End-to-end client project - data to recommendations |
 
 ---
 
@@ -37,15 +37,15 @@ In 2023 I completed the **LSE Data Analytics Career Accelerator** — a rigorous
 | Project | Description | Live |
 |---|---|---|
 | [**CrowdCallr**](https://github.com/asafrubin00/crowdcallr) | Academic research crowdsourcing platform with prediction market mechanics. Inspired by my PhD thesis on knowledge and innovation in digital collectives. | [View →](https://crowdcallr.vercel.app) |
-| [**CV Chatbot**](https://github.com/asafrubin00/asaf-cv-chatbot) | Ask me anything. An AI chatbot trained on my CV and professional history — the most efficient way to get to know me. | [Chat →](https://asaf-cv-chatbot.onrender.com) |
+| [**CV Chatbot**](https://github.com/asafrubin00/asaf-cv-chatbot) | Ask me anything. An AI chatbot trained on my CV and professional history - the most efficient way to get to know me. | [Chat →](https://asaf-cv-chatbot.onrender.com) |
 
 ---
 
 ## Background
 
-- 🎓 **PhD, Management Science** — Wits University, 2018. Research focus: knowledge, innovation, and productivity in digital collectives
-- 🎓 **MBA, INSEAD** — Class of 2025
-- 📜 **LSE Data Analytics Career Accelerator** — 2023
+- 🎓 **PhD, Management Science**: Wits University, 2018. Research focus: knowledge, innovation, and productivity in digital collectives
+- 🎓 **MBA, INSEAD**: Class of 2025
+- 📜 **LSE Data Analytics Career Accelerator**: 2023
 - 💼 Former Knowledge Consultant and Data Insights Consultant in the Executive Search industry
 
 **Languages & tools:** Python · R · SQL · JavaScript · TypeScript · Next.js · Tableau · PostgreSQL
