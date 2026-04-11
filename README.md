@@ -20,7 +20,7 @@ This GitHub is where that work lives.
 
 ## 📊 Data Analytics: LSE Career Accelerator
 
-In 2023 I completed the **LSE Data Analytics Career Accelerator**: a rigorous programme covering the full analytics stack from business intelligence through to advanced predictive modelling. The repositories below document that work in Python and R.
+In 2023 I completed the **LSE Data Analytics Career Accelerator**, a rigorous programme covering the full analytics stack from business intelligence through to advanced predictive modelling. The repositories below document that work in Python and R.
 
 | Repository | Focus |
 |---|---|
@@ -28,7 +28,7 @@ In 2023 I completed the **LSE Data Analytics Career Accelerator**: a rigorous pr
 | [Course 1: Data Analytics for Business](https://github.com/AsafRubin00/LSE-Data-Analytics-for-Business) | Business intelligence, SQL, exploratory analysis |
 | [Course 2: Data Analytics Using Python](https://github.com/AsafRubin00/LSE-Data-Analytics-Using-Python) | Python, Pandas, NumPy, visualisation |
 | [Course 3: Advanced Analytics for Organisational Impact](https://github.com/AsafRubin00/Advanced-Analytics-for-Organisational-Impact) | Machine learning, predictive modelling, Scikit-Learn |
-| [Employer Project: Delivering Real Business Insights](https://github.com/AsafRubin00/Employer-Project) | End-to-end client project — data to recommendations |
+| [Employer Project: Delivering Real Business Insights](https://github.com/AsafRubin00/Employer-Project) | End-to-end client project - data to recommendations |
 
 ---
 
