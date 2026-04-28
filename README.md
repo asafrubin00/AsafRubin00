@@ -38,6 +38,7 @@ In 2023 I completed the **LSE Data Analytics Career Accelerator**, a rigorous pr
 |---|---|---|
 | [**CrowdCallr**](https://github.com/asafrubin00/crowdcallr) | Research crowdsourcing platform with prediction market mechanics, inspired by my PhD. | [View →](https://crowdcallr.vercel.app) |
 | [**CV Chatbot**](https://github.com/asafrubin00/asaf-cv-chatbot) | AI chatbot trained on my CV. The most efficient way to get to know me. | [Chat →](https://asaf-cv-chatbot.onrender.com) |
+| [**OneNote2Notion**](https://github.com/asafrubin00/asaf-cv-chatbot) | AOneNote → Notion migration tool — Python CLI that exports full notebooks including images via Microsoft Graph API. | [View →]([https://asaf-cv-chatbot.onrender.com](https://github.com/asafrubin00/onenote2notion) |
 
 ---
 
