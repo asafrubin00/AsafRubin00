@@ -71,6 +71,6 @@ In 2023 I completed the **LSE Data Analytics Career Accelerator**, a rigorous pr
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/asaf-rubin-phd-mba-21291466/)
 - 🐦 [X / Twitter](https://x.com/AsafRubin)
-- 🌐 [Research Portfolio](https://sites.google.com/view/asafrubin/home)
+- 🌐 [Website](https://asafrubin00.github.io/asaf-rubin-website/)
 
-*Want to know more? Chat with my [CV Chatbot](https://asaf-cv-chatbot.onrender.com).*
+*Want to know more? Chat with my [CV Chatbot](https://asaf-cv-chatbot.vercel.app/).*
