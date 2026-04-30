@@ -6,6 +6,8 @@ I'm a researcher, strategist, and builder with a background spanning academic ma
 
 This GitHub is where that work lives.
 
+Visit my personal website (here)(https://asafrubin00.github.io/asaf-rubin-website/#contact)
+
 ---
 
 ## 🏛️ Governance & Finance Projects
