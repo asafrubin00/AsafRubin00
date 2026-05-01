@@ -1,8 +1,8 @@
 # Asaf Rubin · PhD · MBA
 
-**Corporate governance. Investor stewardship. Built with code.**
+**Governance. Leadership. Business Intelligence. Built with code.**
 
-I'm a researcher, strategist, and builder with a background spanning academic management science, executive search, and data analytics. I earned my PhD at Wits University in 2018, completed my MBA at INSEAD in 2025, and I'm now building at the intersection of corporate governance and technology, using code to create tools, dashboards, and experiences that make governance tangible and interesting.
+I'm a researcher, strategist, and builder with a background spanning academic research, management science, executive search, and data analytics. I earned my PhD at Wits University in 2018, completed my MBA at INSEAD in 2025, and I'm now building at the intersection of business intelligence and technology, using code to create tools, dashboards, and experiences that make governance and leadership tangible and interesting.
 
 This GitHub is where that work lives.
 
