@@ -1,6 +1,6 @@
 # Asaf Rubin · PhD · MBA
 
-**Governance. Leadership. Business Intelligence. Built with code.**
+**Governance. Leadership. Business Intelligence.**
 
 [Personal website](https://asafrubin00.github.io/asaf-rubin-website/)
 
