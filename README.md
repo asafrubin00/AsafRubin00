@@ -17,6 +17,7 @@ This GitHub is where that work lives.
 | [**BoardCraft**](https://github.com/asafrubin00/boardcraft) | Strategy game: build a board, survive an AGM, navigate governance frameworks. | [Play](https://boardcraft-eight.vercel.app) |
 | [**CEO Turnover Index**](https://github.com/asafrubin00/ceo-turnover-index) | Analytics dashboard tracking global CEO turnover. | [View](https://ceo-turnover-index.vercel.app) |
 | [**Proxy Wars**](https://github.com/asafrubin00/governance-dissent-dashboard) | Shareholder dissent tracker: FTSE 100 AGM votes against management, live. | [View](https://proxy-wars-dissent-tracker.vercel.app/) |
+| [**Remi**](https://remi-ashen.vercel.app/) | Remuneration intelligence dashboard tracking executive and non-exuctive pay. | [View]([https://proxy-wars-dissent-tracker.vercel.app/](https://remi-ashen.vercel.app/) |
 
 ---
 
