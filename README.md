@@ -18,6 +18,7 @@ This GitHub is where that work lives.
 | [**CEO Turnover Index**](https://github.com/asafrubin00/ceo-turnover-index) | Analytics dashboard tracking global CEO turnover. | [View](https://ceo-turnover-index.vercel.app) |
 | [**Proxy Wars**](https://github.com/asafrubin00/governance-dissent-dashboard) | Shareholder dissent tracker: FTSE 100 AGM votes against management, live. | [View](https://proxy-wars-dissent-tracker.vercel.app/) |
 | [**Remi**](https://remi-ashen.vercel.app/) | Remuneration intelligence dashboard tracking executive and non-exuctive pay. | [View](https://remi-ashen.vercel.app/) |
+| [**Vantageous**](https://vantageous.vercel.app/) | AI-powered market intelligence dashboard. | [View](https://vantageous.vercel.app/) |
 
 ---
 
