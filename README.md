@@ -4,7 +4,7 @@
 
 [Personal website](https://asafrubin00.github.io/asaf-rubin-website/)
 
-I'm a researcher, strategist, and builder with a background spanning academic research, management science, executive search, and data analytics. I earned my PhD at Wits University in 2018, completed my MBA at INSEAD in 2025, and I'm now building at the intersection of business intelligence and technology, using code to create tools, dashboards, and experiences that make governance and leadership tangible and interesting.
+I'm a researcher, strategist, and builder with a background spanning academic research, management science, executive search, and data analytics. I earned my PhD at Wits University in 2018 and completed my MBA at INSEAD in 2025. My projects use code to explore governance, leadership, and business decisions.
 
 This GitHub is where that work lives.
 
@@ -14,11 +14,11 @@ This GitHub is where that work lives.
 
 | Project | Description | Live |
 |---|---|---|
-| [**BoardCraft**](https://github.com/asafrubin00/boardcraft) | Strategy game: build a board, survive an AGM, navigate governance frameworks. | [Play](https://boardcraft-eight.vercel.app) |
-| [**CEO Turnover Index**](https://github.com/asafrubin00/ceo-turnover-index) | Analytics dashboard tracking global CEO turnover. | [View](https://ceo-turnover-index.vercel.app) |
-| [**Proxy Wars**](https://github.com/asafrubin00/governance-dissent-dashboard) | Shareholder dissent tracker: FTSE 100 AGM votes against management, live. | [View](https://proxy-wars-dissent-tracker.vercel.app/) |
-| [**Remi**](https://remi-ashen.vercel.app/) | Remuneration intelligence dashboard tracking executive and non-exuctive pay. | [View](https://remi-ashen.vercel.app/) |
-| [**Vantageous**](https://vantageous.vercel.app/) | AI-powered market intelligence dashboard. | [View](https://vantageous.vercel.app/) |
+| [**BoardCraft**](https://github.com/asafrubin00/boardcraft) | Playable corporate governance strategy game with board composition and AGM decisions. | [Play](https://boardcraft-eight.vercel.app/) |
+| [**Proxy Wars**](https://github.com/asafrubin00/governance-dissent-dashboard) | FTSE 100 governance research radar with leadership, succession, warning, and significant-voting evidence. | [Explore](https://proxy-wars-dissent-tracker.vercel.app/) |
+| [**CEO Turnover Index**](https://github.com/asafrubin00/ceo-turnover-index) | Interactive dashboard exploring CEO turnover across major indices. | [Explore](https://ceo-turnover-index.vercel.app/) |
+| [**Remi**](https://github.com/asafrubin00/Remi) | Executive and non-executive director pay comparisons; FTSE coverage is still expanding. | [Explore](https://remi-ashen.vercel.app/) |
+| [**Vantageous**](https://github.com/asafrubin00/vantageous) | Market-news signals, briefings, and an assumption-led valuation view. | [Explore](https://vantageous.vercel.app/) |
 
 ---
 
@@ -31,7 +31,7 @@ In 2023 I completed the **LSE Data Analytics Career Accelerator**, a rigorous pr
 | [LSE Data Analytics Career Accelerator](https://github.com/AsafRubin00/LSE-Data-Analytics-Career-Accelerator) | Programme overview and consolidated project work |
 | [Course 1: Data Analytics for Business](https://github.com/AsafRubin00/LSE-Data-Analytics-for-Business) | Business intelligence, SQL, exploratory analysis |
 | [Course 2: Data Analytics Using Python](https://github.com/AsafRubin00/LSE-Data-Analytics-Using-Python) | Python, Pandas, NumPy, visualisation |
-| [Course 3: Advanced Analytics for Organisational Impact](https://github.com/AsafRubin00/Advanced-Analytics-for-Organisational-Impact) | Machine learning, predictive modelling, Scikit-Learn |
+| [Course 3: Advanced Analytics for Organisational Impact](https://github.com/asafrubin00/LSE-Advanced-Analytics-for-Organisational-Impact) | Machine learning, predictive modelling, Scikit-Learn |
 | [Employer Project: Delivering Real Business Insights](https://github.com/AsafRubin00/Employer-Project) | End-to-end client project - data to recommendations |
 
 ---
@@ -40,9 +40,9 @@ In 2023 I completed the **LSE Data Analytics Career Accelerator**, a rigorous pr
 
 | Project | Description | Live |
 |---|---|---|
-| [**CrowdCallr**](https://github.com/asafrubin00/crowdcallr) | Research crowdsourcing platform with prediction market mechanics, inspired by my PhD. | [View](https://crowdcallr.vercel.app) |
-| [**CV Chatbot**](https://github.com/asafrubin00/asaf-cv-chatbot) | AI chatbot trained on my CV. The most efficient way to get to know me. | [Chat](https://asaf-cv-chatbot.vercel.app/) |
-| [**OneNote2Notion**](https://github.com/asafrubin00/asaf-cv-chatbot) | OneNote → Notion migration tool: Python CLI exports full notebooks (incl images) via MS Graph API. | [View](https://github.com/asafrubin00/onenote2notion) |
+| [**CrowdCallr**](https://github.com/asafrubin00/crowdcallr) | Frontend prototype for research challenges and prediction-market mechanics; demo state resets on refresh. | [Try](https://crowdcallr.vercel.app/) |
+| [**CV Chatbot**](https://github.com/asafrubin00/asaf-cv-chatbot) | Interactive guide to my professional background and projects. | [Chat](https://asaf-cv-chatbot.vercel.app/) |
+| [**OneNote2Notion**](https://github.com/asafrubin00/onenote2notion) | Python migration project with staged OneNote download and Notion upload workflows. | [Code](https://github.com/asafrubin00/onenote2notion) |
 
 ---
 
