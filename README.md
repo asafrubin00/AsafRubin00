@@ -15,7 +15,7 @@ This GitHub is where that work lives.
 | Project | Description | Live |
 |---|---|---|
 | [**BoardCraft**](https://github.com/asafrubin00/boardcraft) | Playable corporate governance strategy game with board composition and AGM decisions. | [Play](https://boardcraft-eight.vercel.app/) |
-| [**Proxy Wars**](https://github.com/asafrubin00/governance-dissent-dashboard) | FTSE 100 governance research radar with leadership, succession, warning, and significant-voting evidence. | [Explore](https://proxy-wars-dissent-tracker.vercel.app/) |
+| [**Proxy Wars**](https://github.com/asafrubin00/governance-dissent-dashboard) | FTSE 100 governance research radar; leadership, succession and voting. | [Explore](https://proxy-wars-dissent-tracker.vercel.app/) |
 | [**CEO Turnover**](https://github.com/asafrubin00/ceo-turnover-index) | Interactive dashboard exploring CEO turnover across major indices. | [Explore](https://ceo-turnover-index.vercel.app/) |
 | [**Remi**](https://github.com/asafrubin00/Remi) | Executive and non-executive director pay comparisons; FTSE coverage is still expanding. | [Explore](https://remi-ashen.vercel.app/) |
 | [**Vantageous**](https://github.com/asafrubin00/vantageous) | Market-news signals, briefings, and an assumption-led valuation view. | [Explore](https://vantageous.vercel.app/) |
